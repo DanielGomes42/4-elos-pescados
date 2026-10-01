@@ -1,0 +1,219 @@
+[
+  {
+    "category": "crustaceos",
+    "name": "Camarão Rosa",
+    "origin": "Nacional (SC)",
+    "detail": "Limpo, eviscerado com cola",
+    "image": "assets/produto-01.jpg"
+  },
+  {
+    "category": "crustaceos",
+    "name": "Camarão Rosa Inteiro",
+    "origin": "Nacional (SC)",
+    "detail": "",
+    "image": "assets/produto-02.jpg"
+  },
+  {
+    "category": "crustaceos",
+    "name": "Camarão 7 Barbas",
+    "origin": "Nacional (SC)",
+    "detail": "",
+    "image": "assets/produto-03.jpg"
+  },
+  {
+    "category": "crustaceos",
+    "name": "Camarão Venamei",
+    "origin": "Camarão de cultivo",
+    "detail": "Limpo",
+    "image": "assets/produto-04.jpg"
+  },
+  {
+    "category": "crustaceos",
+    "name": "Tentáculos de Polvo",
+    "origin": "Nacional (Nordeste)",
+    "detail": "",
+    "image": "assets/produto-05.jpg"
+  },
+  {
+    "category": "crustaceos",
+    "name": "Anéis de Lula",
+    "origin": "Peru e China",
+    "detail": "",
+    "image": "assets/produto-06.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Filé de Mapara",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-07.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Filé de Merluza",
+    "origin": "Argentina",
+    "detail": "",
+    "image": "assets/produto-08.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Pescada Espalmada",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-09.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Filé de Porquinho",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-10.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Sardinha Eviscerada",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-11.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Filé de Tilápia",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-12.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Sardinha Espalmada",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-13.jpg"
+  },
+  {
+    "category": "files",
+    "name": "Posta de Dourada",
+    "origin": "Nacional",
+    "detail": "",
+    "image": "assets/produto-14.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Pacu Eviscerado",
+    "origin": "Nacional (AM)",
+    "detail": "",
+    "image": "assets/produto-15.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Traíra Eviscerada",
+    "origin": "Argentina",
+    "detail": "",
+    "image": "assets/produto-16.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Lambari IQF",
+    "origin": "Nacional (MG / PR)",
+    "detail": "",
+    "image": "assets/produto-17.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Piapara Eviscerada",
+    "origin": "Argentina",
+    "detail": "",
+    "image": "assets/produto-18.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Corimba Eviscerado",
+    "origin": "Argentina",
+    "detail": "",
+    "image": "assets/produto-19.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Sardinha Laje IQF",
+    "origin": "Nacional (SC)",
+    "detail": "Eviscerada",
+    "image": "assets/produto-20.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Sardinha Inteira IQF",
+    "origin": "Nacional (SC)",
+    "detail": "",
+    "image": "assets/produto-21.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Manjuba Inteira IQF",
+    "origin": "Nacional (SC)",
+    "detail": "",
+    "image": "assets/produto-22.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Jaú",
+    "origin": "Bacias Amazônicas",
+    "detail": "",
+    "image": "assets/produto-23.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Pirarara",
+    "origin": "Pará - PA",
+    "detail": "",
+    "image": "assets/produto-24.jpg"
+  },
+  {
+    "category": "peixes",
+    "name": "Pintado",
+    "origin": "Pará - PA",
+    "detail": "",
+    "image": "assets/produto-25.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Piramutaba IQF",
+    "origin": "Nacional (PA)",
+    "detail": "Com pele",
+    "image": "assets/produto-26.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Piramutaba IQF",
+    "origin": "Nacional (PA)",
+    "detail": "Sem pele",
+    "image": "assets/produto-27.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Pintado IQF",
+    "origin": "Nacional (MA)",
+    "detail": "Com pele",
+    "image": "assets/produto-28.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Cação",
+    "origin": "Argentina",
+    "detail": "",
+    "image": "assets/produto-29.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Lombo de Cação",
+    "origin": "Uruguai",
+    "detail": "Sem pele",
+    "image": "assets/produto-30.jpg"
+  },
+  {
+    "category": "postas",
+    "name": "Tilápia",
+    "origin": "Nacional (SC)",
+    "detail": "",
+    "image": "assets/produto-31.jpg"
+  }
+]
