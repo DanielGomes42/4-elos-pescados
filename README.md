@@ -2,6 +2,8 @@
 
 Site estático responsivo criado com o catálogo PDF fornecido. HTML, CSS e JavaScript sem dependências ou etapa de compilação.
 
+Site publicado: [4 Elos Pescados](https://DanielGomes42.github.io/4-elos-pescados/).
+
 ## Visualizar
 Abra `index.html` no navegador. Todos os produtos também aparecem sem JavaScript. O menu compacto e os filtros usam JavaScript.
 
@@ -11,7 +13,7 @@ Abra `index.html` no navegador. Todos os produtos também aparecem sem JavaScrip
 3. Abra **Settings → Pages**.
 4. Em **Build and deployment → Source**, escolha **Deploy from a branch**.
 5. Selecione a branch `main`, a pasta `/(root)` e clique em **Save**.
-6. Aguarde a publicação. O endereço será `https://SEU-USUARIO.github.io/4-elos-pescados/`. Consulte a URL exibida pelo GitHub em Pages.
+6. Aguarde a publicação. O endereço será `https://DanielGomes42.github.io/4-elos-pescados/`. Consulte a URL exibida pelo GitHub em Pages.
 
 Os links de assets são relativos e funcionam tanto em uma página de projeto quanto em domínio próprio. Não é necessário npm, framework ou servidor de aplicação.
 
@@ -27,7 +29,7 @@ Os recortes preservam parte do fundo original do PDF. Não são fotografias nova
 Dados de fundação, alcance, embalagem e origens refletem o catálogo, sem verificação externa de atualização. Não foram inventados preços, pesos, disponibilidade ou benefícios das embalagens.
 
 ## SEO
-Título, descrição, idioma, Open Graph básico e dados estruturados da organização incluídos. Depois de publicar, acrescente a URL final como `link rel="canonical"` e `og:url` e uma URL absoluta para `og:image`. Esses endereços dependem do repositório escolhido.
+Título, descrição, idioma, Open Graph, URL canônica e dados estruturados da organização incluídos. Os endereços estão configurados para este GitHub Pages; ajuste-os se mudar o repositório ou domínio.
 
 ## Verificar antes de divulgar
 Abra no celular e computador, teste menu, filtros, e-mail, mapa e download do PDF. Confirme dados comerciais com a empresa. O link de e-mail abre o aplicativo de e-mail configurado, não envia mensagens automaticamente.
