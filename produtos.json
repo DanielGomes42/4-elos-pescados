@@ -4,216 +4,216 @@
     "name": "Camarão Rosa",
     "origin": "Nacional (SC)",
     "detail": "Limpo, eviscerado com cola",
-    "image": "assets/produto-01.jpg"
+    "image": "assets/produto-01-branco.png"
   },
   {
     "category": "crustaceos",
     "name": "Camarão Rosa Inteiro",
     "origin": "Nacional (SC)",
     "detail": "",
-    "image": "assets/produto-02.jpg"
+    "image": "assets/produto-02-branco.png"
   },
   {
     "category": "crustaceos",
     "name": "Camarão 7 Barbas",
     "origin": "Nacional (SC)",
     "detail": "",
-    "image": "assets/produto-03.jpg"
+    "image": "assets/produto-03-branco.png"
   },
   {
     "category": "crustaceos",
     "name": "Camarão Venamei",
     "origin": "Camarão de cultivo",
     "detail": "Limpo",
-    "image": "assets/produto-04.jpg"
+    "image": "assets/produto-04-branco.png"
   },
   {
     "category": "crustaceos",
     "name": "Tentáculos de Polvo",
     "origin": "Nacional (Nordeste)",
     "detail": "",
-    "image": "assets/produto-05.jpg"
+    "image": "assets/produto-05-branco.png"
   },
   {
     "category": "crustaceos",
     "name": "Anéis de Lula",
     "origin": "Peru e China",
     "detail": "",
-    "image": "assets/produto-06.jpg"
+    "image": "assets/produto-06-branco.png"
   },
   {
     "category": "files",
     "name": "Filé de Mapara",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-07.jpg"
+    "image": "assets/produto-07-branco.png"
   },
   {
     "category": "files",
     "name": "Filé de Merluza",
     "origin": "Argentina",
     "detail": "",
-    "image": "assets/produto-08.jpg"
+    "image": "assets/produto-08-branco.png"
   },
   {
     "category": "files",
     "name": "Pescada Espalmada",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-09.jpg"
+    "image": "assets/produto-09-branco.png"
   },
   {
     "category": "files",
     "name": "Filé de Porquinho",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-10.jpg"
+    "image": "assets/produto-10-branco.png"
   },
   {
     "category": "files",
     "name": "Sardinha Eviscerada",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-11.jpg"
+    "image": "assets/produto-11-branco.png"
   },
   {
     "category": "files",
     "name": "Filé de Tilápia",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-12.jpg"
+    "image": "assets/produto-12-branco.png"
   },
   {
     "category": "files",
     "name": "Sardinha Espalmada",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-13.jpg"
+    "image": "assets/produto-13-branco.png"
   },
   {
     "category": "files",
     "name": "Posta de Dourada",
     "origin": "Nacional",
     "detail": "",
-    "image": "assets/produto-14.jpg"
+    "image": "assets/produto-14-branco.png"
   },
   {
     "category": "peixes",
     "name": "Pacu Eviscerado",
     "origin": "Nacional (AM)",
     "detail": "",
-    "image": "assets/produto-15.jpg"
+    "image": "assets/produto-15-branco.png"
   },
   {
     "category": "peixes",
     "name": "Traíra Eviscerada",
     "origin": "Argentina",
     "detail": "",
-    "image": "assets/produto-16.jpg"
+    "image": "assets/produto-16-branco.png"
   },
   {
     "category": "peixes",
     "name": "Lambari IQF",
     "origin": "Nacional (MG / PR)",
     "detail": "",
-    "image": "assets/produto-17.jpg"
+    "image": "assets/produto-17-branco.png"
   },
   {
     "category": "peixes",
     "name": "Piapara Eviscerada",
     "origin": "Argentina",
     "detail": "",
-    "image": "assets/produto-18.jpg"
+    "image": "assets/produto-18-branco.png"
   },
   {
     "category": "peixes",
     "name": "Corimba Eviscerado",
     "origin": "Argentina",
     "detail": "",
-    "image": "assets/produto-19.jpg"
+    "image": "assets/produto-19-branco.png"
   },
   {
     "category": "peixes",
     "name": "Sardinha Laje IQF",
     "origin": "Nacional (SC)",
     "detail": "Eviscerada",
-    "image": "assets/produto-20.jpg"
+    "image": "assets/produto-20-branco.png"
   },
   {
     "category": "peixes",
     "name": "Sardinha Inteira IQF",
     "origin": "Nacional (SC)",
     "detail": "",
-    "image": "assets/produto-21.jpg"
+    "image": "assets/produto-21-branco.png"
   },
   {
     "category": "peixes",
     "name": "Manjuba Inteira IQF",
     "origin": "Nacional (SC)",
     "detail": "",
-    "image": "assets/produto-22.jpg"
+    "image": "assets/produto-22-branco.png"
   },
   {
     "category": "peixes",
     "name": "Jaú",
     "origin": "Bacias Amazônicas",
     "detail": "",
-    "image": "assets/produto-23.jpg"
+    "image": "assets/produto-23-branco.png"
   },
   {
     "category": "peixes",
     "name": "Pirarara",
     "origin": "Pará - PA",
     "detail": "",
-    "image": "assets/produto-24.jpg"
+    "image": "assets/produto-24-branco.png"
   },
   {
     "category": "peixes",
     "name": "Pintado",
     "origin": "Pará - PA",
     "detail": "",
-    "image": "assets/produto-25.jpg"
+    "image": "assets/produto-25-branco.png"
   },
   {
     "category": "postas",
     "name": "Piramutaba IQF",
     "origin": "Nacional (PA)",
     "detail": "Com pele",
-    "image": "assets/produto-26.jpg"
+    "image": "assets/produto-26-branco.png"
   },
   {
     "category": "postas",
     "name": "Piramutaba IQF",
     "origin": "Nacional (PA)",
     "detail": "Sem pele",
-    "image": "assets/produto-27.jpg"
+    "image": "assets/produto-27-branco.png"
   },
   {
     "category": "postas",
     "name": "Pintado IQF",
     "origin": "Nacional (MA)",
     "detail": "Com pele",
-    "image": "assets/produto-28.jpg"
+    "image": "assets/produto-28-branco.png"
   },
   {
     "category": "postas",
     "name": "Cação",
     "origin": "Argentina",
     "detail": "",
-    "image": "assets/produto-29.jpg"
+    "image": "assets/produto-29-branco.png"
   },
   {
     "category": "postas",
     "name": "Lombo de Cação",
     "origin": "Uruguai",
     "detail": "Sem pele",
-    "image": "assets/produto-30.jpg"
+    "image": "assets/produto-30-branco.png"
   },
   {
     "category": "postas",
     "name": "Tilápia",
     "origin": "Nacional (SC)",
     "detail": "",
-    "image": "assets/produto-31.jpg"
+    "image": "assets/produto-31-branco.png"
   }
 ]
