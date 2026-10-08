@@ -33,3 +33,10 @@ Título, descrição, idioma, Open Graph, URL canônica e dados estruturados da 
 
 ## Verificar antes de divulgar
 Abra no celular e computador, teste menu, filtros, e-mail, mapa e download do PDF. Confirme dados comerciais com a empresa. O link de e-mail abre o aplicativo de e-mail configurado, não envia mensagens automaticamente.
+
+
+## Visual marítimo
+
+Layout inspirado na referência enviada em 08/10/2026: tons de azul, títulos com fonte serifada, divisões em ondas, chamadas verdes de contato e atalhos por categoria. As imagens `assets/hero-mar-v2.png` e `assets/barco-mar-v2.png` foram geradas por IA e são ilustrativas, sem representar instalações, embarcações ou lotes reais da empresa. As fotos dos produtos e suas origens continuam vinculadas ao catálogo fornecido.
+
+Os botões verdes abrem o e-mail real `lagopescados@gmail.com`. Não foram copiados os telefones, e-mail fictício, produtos especiais ou alegações de certificação da imagem de referência.
