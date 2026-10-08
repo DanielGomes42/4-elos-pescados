@@ -6,3 +6,10 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.button,.card,.category-card{transition:none}.button:hover,.card:hover,.category-card:hover{transform:none}}
 
 .catalog-details{background:#fff;border-top:1px solid #dcebf2}.catalog-summary{display:flex;align-items:center;justify-content:space-between;gap:20px;cursor:pointer;list-style:none;padding-top:25px;padding-bottom:25px;color:var(--navy);font-size:16px;font-weight:700}.catalog-summary::-webkit-details-marker{display:none}.catalog-summary small{display:block;font-size:12px;font-weight:400;color:#59768a;margin-top:3px}.catalog-toggle{display:flex;align-items:center;justify-content:center;width:34px;height:34px;flex:0 0 auto;border:1px solid #b7d7e8;border-radius:50%;font-size:25px;font-weight:400;transition:transform .2s}.catalog-details[open] .catalog-toggle{transform:rotate(45deg)}.catalog-details .catalog{border-top:1px solid #e8f2f7}@media(max-width:760px){.catalog-summary{font-size:14px;padding-top:21px;padding-bottom:21px}.catalog-summary small{font-size:11px}}
+
+/* Mais cor e profundidade nas fotos do catálogo */
+.category-photo,.product-image{background:radial-gradient(ellipse at 50% 28%,#37a8d2 0%,#137eae 48%,#075080 100%)}
+.category-photo img,.product-image img{filter:brightness(1.08) contrast(1.1) saturate(1.28) drop-shadow(0 8px 9px #002a4e55);transition:transform .25s ease}
+.category-card:hover .category-photo img,.card:hover .product-image img{transform:scale(1.04)}
+.card,.category-card{border-color:#b6dce9;box-shadow:0 4px 14px #07508012}
+@media(prefers-reduced-motion:reduce){.category-photo img,.product-image img{transition:none}.category-card:hover .category-photo img,.card:hover .product-image img{transform:none}}
