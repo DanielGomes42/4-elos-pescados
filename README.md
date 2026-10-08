@@ -24,7 +24,7 @@ Os links de assets são relativos e funcionam tanto em uma página de projeto qu
 - `assets`: recortes do próprio catálogo, logotipo e PDF original.
 - `produtos.json`: relação de conferência dos 31 produtos; a página usa HTML estático. Ao editar, atualize ambos para manter a consistência.
 
-Os recortes preservam parte do fundo original do PDF. Não são fotografias novas. A seção Filés mantém os oito itens classificados dessa forma no catálogo, inclusive Pescada Espalmada, sardinhas e Posta de Dourada. Grafias de eviscerado e acentuação foram normalizadas sem alterar as origens. Camarão Venamei mantém a denominação impressa. Não há número de telefone no material: não foi incluído WhatsApp.
+As imagens `produto-XX-branco.png` são versões do catálogo com o fundo azul removido por edição assistida por IA para apresentação sobre branco. As fotos originais `produto-XX.jpg` foram mantidas. As versões editadas não devem substituir fotos oficiais para conferência de detalhes ou rótulos. A seção Filés mantém os oito itens classificados dessa forma no catálogo, inclusive Pescada Espalmada, sardinhas e Posta de Dourada. Grafias de eviscerado e acentuação foram normalizadas sem alterar as origens. Camarão Venamei mantém a denominação impressa. Não há número de telefone no material: não foi incluído WhatsApp.
 
 Dados de fundação, alcance, embalagem e origens refletem o catálogo, sem verificação externa de atualização. Não foram inventados preços, pesos, disponibilidade ou benefícios das embalagens.
 
