@@ -13,3 +13,10 @@
 .category-card:hover .category-photo img,.card:hover .product-image img{transform:scale(1.04)}
 .card,.category-card{border-color:#b6dce9;box-shadow:0 4px 14px #07508012}
 @media(prefers-reduced-motion:reduce){.category-photo img,.product-image img{transition:none}.category-card:hover .category-photo img,.card:hover .product-image img{transform:none}}
+
+/* Fotos de categoria como a referência: pescados sobre gelo, sem embalagens */
+.category-photo{height:210px;padding:0;background-image:url("assets/categorias-gelo.png");background-size:400% auto;background-repeat:no-repeat;background-position:0% center;overflow:hidden}
+.category-card:nth-child(2) .category-photo{background-position:33.3333% center}.category-card:nth-child(3) .category-photo{background-position:66.6667% center}.category-card:nth-child(4) .category-photo{background-position:100% center}
+.category-photo img{opacity:0;filter:none}.category-copy{background:linear-gradient(180deg,#f1f9fe,#e7f3fa)}.category-card{border:0;border-radius:8px;box-shadow:none}.round-arrow{align-self:center}.image-note{font-size:10px;color:#59768a;margin:10px 0 0}.overview{background:radial-gradient(ellipse at 85% 10%,#d7edf780,transparent 65%),#f5fbfe}.highlights{border-bottom:5px solid #d9effa}.client-banner{border-bottom:6px solid #d9effa}.contact{border-top:9px solid #c5e7f6}
+@media(min-width:1001px){.hero{min-height:570px}.hero-content{padding-top:74px;padding-bottom:84px}.story-image{clip-path:polygon(0 0,100% 0,89% 100%,0 100%)}.story-copy{padding-left:32px}}
+@media(max-width:760px){.category-photo{height:170px;background-size:400% auto}.category-copy{padding:14px}.image-note{font-size:9px}}@media(max-width:360px){.category-photo{height:145px}}
