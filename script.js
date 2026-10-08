@@ -19,3 +19,7 @@ function filterProducts(value) {
 }
 filters.addEventListener('click', event => { const button = event.target.closest('button'); if (button) filterProducts(button.dataset.filter); });
 filterProducts('todos');
+
+document.querySelectorAll('[data-filter-target]').forEach(link => {
+  link.addEventListener('click', () => filterProducts(link.dataset.filterTarget));
+});
