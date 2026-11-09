@@ -40,3 +40,10 @@ Abra no celular e computador, teste menu, filtros, e-mail, mapa e download do PD
 Layout inspirado na referência enviada em 08/10/2026: tons de azul, títulos com fonte serifada, divisões em ondas, chamadas verdes de contato e atalhos por categoria. As imagens `assets/hero-mar-v2.png` e `assets/barco-mar-v2.png` foram geradas por IA e são ilustrativas, sem representar instalações, embarcações ou lotes reais da empresa. As fotos dos produtos e suas origens continuam vinculadas ao catálogo fornecido.
 
 Os botões verdes abrem o e-mail real `lagopescados@gmail.com`. Não foram copiados os telefones, e-mail fictício, produtos especiais ou alegações de certificação da imagem de referência.
+
+
+## Fotos dos produtos embalados — novembro de 2026
+
+17 fotos reais fornecidas pelo cliente substituem 14 fotos anteriores e apresentam três produtos adicionais: Marisco, Filé de Panga e Cavalinha Inteira. O catálogo contém 34 itens. Itens sem foto nova mantêm suas imagens do catálogo original. As fotos das embalagens são exibidas inteiras, sem filtros de cor.
+
+As origens da Lula e da Posta de Cação foram atualizadas conforme os rótulos enviados (Brasil e Uruguai). A foto rotulada Camarão Rosa Limpo identifica a espécie Litopenaeus vannamei e foi associada ao Camarão Venamei. O PDF disponível para download continua sendo o catálogo original.
