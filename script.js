@@ -23,6 +23,6 @@ filterProducts('todos');
 document.querySelectorAll('a[href="#catalogo"]').forEach(link => {
   link.addEventListener('click', () => {
     document.querySelector('.catalog-details').open = true;
-    if (link.dataset.filterTarget) filterProducts(link.dataset.filterTarget);
+    filterProducts(link.dataset.filterTarget || 'todos');
   });
 });
