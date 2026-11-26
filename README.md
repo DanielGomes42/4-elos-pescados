@@ -4,7 +4,7 @@ Site estático em HTML, CSS e JavaScript, sem instalação de dependências.
 
 ## Visual de novembro de 2026
 
-Layout inspirado na referência fornecida: navegação sobre o hero marítimo, azul-marinho e dourado, faixa de destaques, categorias, história da empresa, pilares, chamada para clientes e rodapé com mapa. No celular, o menu recolhe e os conteúdos passam a uma ou duas colunas.
+Layout inspirado na referência fornecida: navegação sobre o hero marítimo, azul-marinho e dourado, faixa de destaques, categorias, história da empresa, pilares, chamada para clientes e rodapé com mapa. No celular, os links de navegação ficam sempre visíveis, sem botão de menu, e os conteúdos passam a uma ou duas colunas.
 
 Mantidos somente os 17 produtos embalados fornecidos pelo cliente. As quatro categorias usam as fotos reais das embalagens. O logotipo é o original fornecido. Hero e barco são imagens ilustrativas geradas por IA. Não foram copiadas as redes sociais, o novo desenho de logotipo, produtos especiais ou contatos fictícios da referência.
 
@@ -18,7 +18,7 @@ Envie o conteúdo desta pasta para a raiz da branch main. Em Settings → Pages,
 
 - index.html: conteúdo, catálogo e SEO.
 - style.css: layout e adaptações de tela.
-- script.js: menu e filtros.
+- script.js: filtros do catálogo.
 - produtos.json: relação dos 17 produtos; atualizar junto com o HTML.
 - assets: fotos e identidade visual.
 
